@@ -32,7 +32,7 @@ Curso 2019 / 2020
 
 ## El ciclo
 
---
+------
 
 ## ¿Qué se ve en ASIR? 
 
@@ -44,7 +44,7 @@ Curso 2019 / 2020
 - Hardware <!-- .element: class="fragment" -->
 - Formación laboral y empresarial <!-- .element: class="fragment" -->
 
---
+------
 
 ### Primer curso
 
@@ -56,21 +56,21 @@ Curso 2019 / 2020
 
 Duración: de septiembre a mayo.
 
---
+------
 
 #### ¿Qué se hace en junio?
 
 - Refuerzo y recuperaciones si has suspendido algo. **En septiembre no hay exámenes** <!-- .element: class="fragment" -->
 - ¿Todo aprobado? Puedes venir a subir nota <!-- .element: class="fragment" -->
 
---
+------
 
 #### ¿Y si en junio no recupero?
 
 - Se repite primero sólo con los módulos suspensos <!-- .element: class="fragment" -->
 - Es posible matricularse parcialmente en 2º si los horarios (definitivos) no se solapan <!-- .element: class="fragment" -->
 
---
+------
 
 ### Segundo curso
 
@@ -83,7 +83,7 @@ Duración: de septiembre a mayo.
 
 Termina aproximadamante en marzo
 
---
+------
 
 #### Fase de prácticas
 
@@ -93,14 +93,14 @@ Si terminas segundo con todo aprobado...
 - <!-- .element: class="fragment" --> Realización y defensa de un proyecto (40 h) 
 - <!-- .element: class="fragment" --> Opcional: acudir al instituto en horario reducido para subir nota
 
---
+------
 
 Si tienes algún módulo suspenso...
 
 - Clases de refuerzo y recuperación en horario reducido hasta junio <!-- .element: class="fragment" -->
 - Si se recupera todo, la fase de prácticas se hace de septiembre a diciembre <!-- .element: class="fragment" -->
 
---
+------
 
 ## Salidas profesionales 
 
@@ -112,7 +112,7 @@ Si tienes algún módulo suspenso...
 - Auditor de seguridad informática <!-- .element: class="fragment" -->
 - Bases de datos <!-- .element: class="fragment" -->
 
---
+------
 
 ## Salidas académicas 
 
