@@ -97,10 +97,10 @@ Nota = Nota media + α · Examen1 + β · Examen2
 | ----- | ----- | ------ | --------- | ------ | ------- |
 | 8:30  |  DWES |  DWEC  |   DWEC    | DWES   |   DWEC  |
 | 9:30  |  DWES |  DWEC  |   DIW     | DAW    |   DAW   |
-| 10:30 |  DAW  |  ING   |   DIW     | EINE   |   DWES  |
+| 10:30 |  DWES |  ING   |   DIW     | EINE   |   DWES  |
 | 11:30 |       |        |           |        |         |
 | 12:00 |  DWEC |  DWES  |   DWES    | DIW    |   DIW   |
-| 13:00 |  DWEC |  DWES  |   DWES    | DIW    |   DIW   |
+| 13:00 |  DWEC |  DWES  |   DAW     | DIW    |   DIW   |
 | 14:00 |  EINE |  DAW   |   EINE    | DWEC   |   EINE  |
 
 ---
