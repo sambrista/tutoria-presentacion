@@ -41,7 +41,7 @@ Curso 2025 / 2026
 
 - Itinerario Personal para la Empleabilidad II (IPE II) <!-- .element: class="fragment" -->
 - Inglés Profesional GS <!-- .element: class="fragment" -->
-- Optativa: Gestores de Contenido <!-- .element: class="fragment" -->
+- Optativa: Ciberseguridad <!-- .element: class="fragment" -->
 - Proyecto Intermodular <!-- .element: class="fragment" -->
 
 ------
@@ -53,7 +53,7 @@ Curso 2025 / 2026
 | Desarrollo Web en Entorno Servidor |  7  | Diseño de Interfaces web           |  5  |
 | Desarrollo Web en Entorno Cliente  |  6  | Despliegue de Aplicaciones WEb     |  2  |
 | IPE II                             |  3  | Inglés Profesional GS              |  2  |
-| Gestores de Contenido              |  3  | Proyecto Intermodular DAW          |  2  |
+| Ciberseguridad                     |  3  | Proyecto Intermodular DAW          |  2  |
 
 ------
 
