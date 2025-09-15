@@ -28,14 +28,21 @@ Curso 2025 / 2026
 
 ------
 
-## ¿Qué vemos este curso?
+## ¿Qué vemos este curso? (1/2)
 
 - Desarrollo web en entorno Cliente <!-- .element: class="fragment" -->
 - Desarrollo web en entorno Servidor <!-- .element: class="fragment" -->
 - Diseño de interfaces web <!-- .element: class="fragment" -->
 - Despliegue de aplicaciones web <!-- .element: class="fragment" -->
-- Empresa e iniciativa emprendedora <!-- .element: class="fragment" -->
-- Libre configuración: inglés <!-- .element: class="fragment" -->
+
+------
+
+## ¿Qué vemos este curso? (2/2)
+
+- Itinerario Personal para la Empleabilidad II (IPE II) <!-- .element: class="fragment" -->
+- Inglés Profesional GS <!-- .element: class="fragment" -->
+- Optativa: Gestores de Contenido <!-- .element: class="fragment" -->
+- Proyecto Intermodular <!-- .element: class="fragment" -->
 
 ------
 
@@ -45,13 +52,14 @@ Curso 2025 / 2026
 | :--------------------------------- | :-: | :--------------------------------- | :-: |
 | Desarrollo Web en Entorno Servidor |  7  | Diseño de Interfaces web           |  5  |
 | Desarrollo Web en Entorno Cliente  |  6  | Despliegue de Aplicaciones WEb     |  2  |
-| Itinerario Personal para la Empleabilidad II  |  3  | Inglés Profesional GS        |  2  |
-| Optativas: Gestores de Contenido | 3 | Proyecto Intermodular DAW | 2 | 
+| IPE II                             |  3  | Inglés Profesional GS              |  2  |
+| Gestores de Contenido              |  3  | Proyecto Intermodular DAW          |  2  |
 
 ------
 
 ### Modalidad Dual
 
+- <!-- .element: class="fragment" --> Módulos nuevos y cambios de horas.
 - <!-- .element: class="fragment" --> El módulo de FCT ya no existe.
 - <!-- .element: class="fragment" --> La formación en empresa forma parte de cada módulo.
 - <!-- .element: class="fragment" --> Todos los alumnos van a prácticas.
@@ -84,15 +92,13 @@ Curso 2025 / 2026
 
 ------
 
-## Salidas académicas 
+## Salidas académicas
 
 - <!-- .element: class="fragment" --> El ciclo formativo de grado superior permite acceder directamente a la universidad  
 - <!-- .element: class="fragment" --> La nota de acceso es la nota media del ciclo  
 - <!-- .element: class="fragment" --> Puedes subir nota presentándote a la parte específica de la prueba de acceso a la universidad
 
 Nota = Nota media + α · Examen1 + β · Examen2  
-
-<!-- .element: class="fragment" -->
 
 ---
 
