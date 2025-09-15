@@ -106,13 +106,13 @@ Nota = Nota media + α · Examen1 + β · Examen2
 
 | h     | Lunes | Martes | Miércoles | Jueves | Viernes |
 | ----- | ----- | ------ | --------- | ------ | ------- |
-| 8:30  |  DWES |  DWEC  |   DWEC    | DWES   |   DWEC  |
-| 9:30  |  DWES |  DWEC  |   DIW     | DAW    |   DAW   |
-| 10:30 |  DWES |  ING   |   DIW     | EINE   |   DWES  |
+| 8:30  |  IPE2 |  DIW   |   IPE2    | DWEC   |   CIBE  |
+| 9:30  |  DIW  |  DIW   |   DWES    | DWEC   |   PROY  |
+| 10:30 |  CIBE |  DAW   |   DWES    | DAW    |   DIW   |
 | 11:30 |       |        |           |        |         |
-| 12:00 |  DWEC |  DWES  |   DWES    | DIW    |   DIW   |
-| 13:00 |  DWEC |  DWES  |   DAW     | DIW    |   DIW   |
-| 14:00 |  EINE |  DAW   |   EINE    | DWEC   |   EINE  |
+| 12:00 |  CIBE |  DWES  |   PROY    | INGP   |   IPE2  |
+| 13:00 |  INGP |  DWES  |   DWEC    | DWES   |   DWEC  |
+| 14:00 |  DWEC |  DWEC  |   DIW     | DWES   |   DWES  |
 
 ---
 
