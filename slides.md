@@ -4,7 +4,7 @@
 
 IES Francisco de los Ríos
 
-Curso 2024 / 2025
+Curso 2025 / 2026
 
 ---
 
@@ -43,27 +43,32 @@ Curso 2024 / 2025
 
 | Módulo                             |  h  | Módulo                             |  h  |
 | :--------------------------------- | :-: | :--------------------------------- | :-: |
-| Desarrollo Web en Entorno Servidor |  8  | Diseño de Interfaces web           |  6  |
-| Desarrollo Web en Entorno Cliente  |  7  | Despliegue de Aplicaciones WEb     |  4  |
-| Empresa e Iniciativa Emprendedora  |  4  | Libre configuración: Inglés        |  1  |
-
-Termina el 12 de marzo
-
-------
-
-#### Fase de prácticas
-
-Si terminas segundo con todo aprobado...
-
-- <!-- .element: class="fragment" --> FCT: Formación en Centros de Trabajo (370 h)
-- <!-- .element: class="fragment" --> Realización y defensa de un proyecto (40 h)
+| Desarrollo Web en Entorno Servidor |  7  | Diseño de Interfaces web           |  5  |
+| Desarrollo Web en Entorno Cliente  |  6  | Despliegue de Aplicaciones WEb     |  2  |
+| Itinerario Personal para la Empleabilidad II  |  3  | Inglés Profesional GS        |  2  |
+| Optativas: Gestores de Contenido | 3 | Proyecto Intermodular DAW | 2 | 
 
 ------
 
-Si tienes algún módulo suspenso...
+### Modalidad Dual
 
-- Clases de refuerzo y recuperación en horario reducido hasta junio <!-- .element: class="fragment" -->
-- Si se recupera todo, la fase de prácticas se hace normalmente de septiembre a diciembre <!-- .element: class="fragment" -->
+- <!-- .element: class="fragment" --> El módulo de FCT ya no existe.
+- <!-- .element: class="fragment" --> La formación en empresa forma parte de cada módulo.
+- <!-- .element: class="fragment" --> Todos los alumnos van a prácticas.
+- <!-- .element: class="fragment" --> El proyecto se hace a lo largo del curso.
+
+------
+
+- <!-- .element: class="fragment" --> ¿Cuándo iremos a la empresa?
+- <!-- .element: class="fragment" --> ¿Iremos todos los días de la semana?
+- <!-- .element: class="fragment" --> ¿Cuándo se recupera?
+
+------
+
+## No lo sabemos
+
+- <!-- .element: class="fragment" --> Aún no hay legislación en Andalucía que especifique cómo se debe actuar.
+- <!-- .element: class="fragment" --> Estamos pendientes de que publiquen instrucciones para este curso.
 
 ------
 
@@ -117,14 +122,17 @@ Nota = Nota media + α · Examen1 + β · Examen2
 - Cuidado de los puestos <!-- .element: class="fragment" -->
 - Juegos y programas no autorizados <!-- .element: class="fragment" -->
 - Saber estar en clase <!-- .element: class="fragment" -->
+- Limpieza <!-- .element: class="fragment" -->
 
 ---
 
 ## Consejos
 
 - Aprueba pero sobretodo aprende <!-- .element: class="fragment" -->
+- Usa la inteligencia artificial de forma inteligente <!-- .element: class="fragment" -->
 - Responsabilidad y puntualidad <!-- .element: class="fragment" -->
 - Trabaja a diario <!-- .element: class="fragment" -->
+- Plantéate un proyecto personal <!-- .element: class="fragment" -->
 - Networking <!-- .element: class="fragment" -->
 - No te quedes con dudas <!-- .element: class="fragment" -->
 - ¿Vas a por nota? Esfuerzo desde el minuto 1 <!-- .element: class="fragment" -->
