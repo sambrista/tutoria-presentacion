@@ -71,14 +71,7 @@ Curso 2025 / 2026
 - <!-- .element: class="fragment" --> ¿Iremos todos los días de la semana?
 - <!-- .element: class="fragment" --> ¿Cuándo se recupera?
 
-------
-
-## No lo sabemos
-
-- <!-- .element: class="fragment" --> Aún no hay legislación en Andalucía que especifique cómo se debe actuar.
-- <!-- .element: class="fragment" --> Estamos pendientes de que publiquen instrucciones para este curso.
-
-------
+---
 
 ## Salidas profesionales
 
@@ -110,9 +103,9 @@ Nota = Nota media + α · Examen1 + β · Examen2
 | 9:30  |  DIW  |  DIW   |   DWES    | DWEC   |   PROY  |
 | 10:30 |  CIBE |  DAW   |   DWES    | DAW    |   DIW   |
 | 11:30 |       |        |           |        |         |
-| 12:00 |  CIBE |  DWES  |   PROY    | INGP   |   IPE2  |
-| 13:00 |  INGP |  DWES  |   DWEC    | DWES   |   DWEC  |
-| 14:00 |  DWEC |  DWEC  |   DIW     | DWES   |   DWES  |
+| 12:00 |  CIBE |  INGP  |   PROY    | INGP   |   IPE2  |
+| 13:00 |  DWES |  DWEC  |   DWEC    | DWES   |   DWEC  |
+| 14:00 |  DWES |  DWEC  |   DIW     | DWES   |   DWES  |
 
 ---
 
@@ -127,15 +120,11 @@ Nota = Nota media + α · Examen1 + β · Examen2
 
 ---
 
-# ¿Preguntas?
-
----
-
-## Cuestionario inicial
-
----
-
 ## Penalización por fraude en pruebas escritas
+
+---
+
+# ¿Preguntas?
 
 ---
 
